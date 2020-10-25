@@ -1,7 +1,7 @@
 # npm i
 
 Routing is:
-http://localhost:8000/comments-with-param?id=11&email=Nikita@garfield.biz
-http://localhost:8000/comments
-http://localhost:8000/posts
-http://localhost:8000/posts/10
+1. http://localhost:8000/comments-with-param?id=11&email=Nikita@garfield.biz
+2. http://localhost:8000/comments
+3. http://localhost:8000/posts
+4. http://localhost:8000/posts/10
